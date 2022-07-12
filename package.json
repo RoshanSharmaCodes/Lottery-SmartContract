@@ -1,0 +1,19 @@
+{
+  "name": "lottery",
+  "version": "0.0.1",
+  "description": "",
+  "main": "Compile.js",
+  "dependencies": {
+    "ganache-cli": "^6.12.2",
+    "solc": "^0.4.26",
+    "web3": "^1.7.4"
+  },
+  "devDependencies": {
+    "mocha": "^10.0.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC"
+}
